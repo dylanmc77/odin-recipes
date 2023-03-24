@@ -1,3 +1,35 @@
 .title {
-    color:green
+    color: green;
+    text-align: center;
+    font-weight: bold;
+    font-size: 50px;
+}
+
+div {
+    justify-content: center;
+    display: flex;
+}
+
+.info {
+    background-color: blue;
+    font-size: 20px;
+}
+
+.links {
+    color:green;
+}
+
+.recipes {
+    color:green;
+}
+
+.div {
+    background-color:green;
+
+}
+
+.one {
+    color:black;
+    background-color: green;
+    font-size: 30px
 }
