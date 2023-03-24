@@ -21,3 +21,7 @@ h2 {
     color: green;
 }
 
+.list {
+    text-align: left;
+    font-size: 50px;
+}
