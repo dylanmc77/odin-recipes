@@ -16,7 +16,11 @@ div {
     text-align: center;
 }
 
-
+.direct {
+    text-align: center;
+    font-weight: bold;
+    font-size: 30px;
+}
 
 .links {
     color:green;
@@ -25,6 +29,7 @@ div {
 .recipes {
     color:green;
     font-size: 50px;
+    text-align: center;
 }
 
 .div {
@@ -32,12 +37,3 @@ div {
 
 }
 
-.button {
-    color:green;
-    background-color: black;
-    font-size: 30px
-}
-
-.one {
-    text-align: center;
-}
