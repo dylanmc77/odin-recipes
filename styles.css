@@ -32,6 +32,11 @@ div {
     text-align: center;
 }
 
+.links {
+    text-align: center;
+    font-size: 40px;
+}
+
 .div {
     background-color:green;
 
