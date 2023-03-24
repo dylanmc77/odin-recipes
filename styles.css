@@ -2,7 +2,7 @@
     color: green;
     text-align: center;
     font-weight: bold;
-    font-size: 50px;
+    font-size: 70px;
 }
 
 div {
@@ -11,9 +11,12 @@ div {
 }
 
 .info {
-    background-color: blue;
-    font-size: 20px;
+    background-color: green;
+    font-size: 40px;
+    text-align: center;
 }
+
+
 
 .links {
     color:green;
@@ -21,6 +24,7 @@ div {
 
 .recipes {
     color:green;
+    font-size: 50px;
 }
 
 .div {
@@ -28,8 +32,12 @@ div {
 
 }
 
-.one {
-    color:black;
-    background-color: green;
+.button {
+    color:green;
+    background-color: black;
     font-size: 30px
+}
+
+.one {
+    text-align: center;
 }
