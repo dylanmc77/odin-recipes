@@ -1,0 +1,22 @@
+.title {
+    color: green;
+    font-size: 100px;
+    text-align: center;
+}
+
+div {
+    justify-content: center;
+    display: flex;
+}
+
+.description {
+    font-size: 30px;
+    text-align: center;
+    color: black;
+}
+
+h2 {
+    text-align: center;
+    font-size: 70px;
+    color: green;
+}
